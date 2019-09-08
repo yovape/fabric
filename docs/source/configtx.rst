@@ -2,7 +2,7 @@ Channel Configuration (configtx)
 ================================
 
 Shared configuration for a Hyperledger Fabric blockchain network is
-stored in a collection configuration transactions, one per channel. Each
+stored in a collection of configuration transactions, one per channel. Each
 configuration transaction is usually referred to by the shorter name
 *configtx*.
 
